@@ -12,6 +12,7 @@
         <classes>
             <class name="com.webtestpro.tests.HomePageTest"/>
             <class name="com.webtestpro.tests.CartTest"/>
+            <class name="com.webtestpro.tests.CheckoutTest"/>
         </classes>
     </test>
 
